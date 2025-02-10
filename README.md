@@ -1,0 +1,2 @@
+# Creators
+This repository was created by AI masters students Juan José Valencia Jaramillo and Harold Torres Leon for academical purposes on the "processing of secuencial data using deep learning" course at Universidad Autonoma de Occidente.
