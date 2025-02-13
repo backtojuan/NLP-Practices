@@ -1,0 +1,4 @@
+Flask
+Transformers
+Torch
+Streamlit
